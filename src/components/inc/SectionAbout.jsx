@@ -13,7 +13,7 @@ const SectionAbout = () => {
           <div className="bg-white p-8 rounded-lg shadow-lg border-l-4 border-blue-600">
             <h3 className="text-2xl font-bold mb-6">Notre Histoire</h3>
             <p className="text-gray-700">
-              Fondé en 2005, BANA-GROUP est né de la vision de révolutionner l'industrie technologique en Afrique.
+              Fondé en 2022, BANA-GROUP est né de la vision de révolutionner l'industrie technologique en Afrique.
               Depuis nos débuts, nous nous sommes engagés à fournir des solutions innovantes et adaptées aux besoins
               locaux tout en répondant aux standards internationaux.
             </p>
@@ -32,7 +32,7 @@ const SectionAbout = () => {
           <div className="bg-white p-8 rounded-lg shadow-lg border-l-4 border-green-600">
             <h3 className="text-2xl font-bold mb-6">Notre Équipe</h3>
             <p className="text-gray-700">
-              Notre équipe est composée de plus de 200 experts passionnés par l'innovation et la technologie.
+              Notre équipe est composée de plus de 20 experts passionnés par l'innovation et la technologie.
               Nous croyons en la diversité des compétences et des perspectives pour offrir des solutions créatives
               et efficaces.
             </p>
